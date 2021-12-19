@@ -2,6 +2,8 @@
 
 Simple but effective drag and drop like with order checker for many use cases, namely studying / TechED implementations.
 
+[LIVE DEMO](https://mathcodes.github.io/DRAGNDROP/)
+
 <img src="./jorder.png" width="50%"/>
 <img src="./jorder1.png" width="50%"/>
 <img src="./jorder2.png" width="50%"/>
